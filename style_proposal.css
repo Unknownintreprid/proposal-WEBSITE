@@ -1,0 +1,52 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+    color: #ff69b4;
+    font-family:Brush Script MT ;
+}
+
+body {
+    background-color: #fff0ff;
+    font-style: oblique;
+    margin: 0;
+    padding: 20px;
+}
+
+.sweetheart {
+    font-size: 3em;
+    line-height: 1.6;
+    color: #c05883;
+    font-family: Brush Script MT;
+}
+
+.note{
+    font-style: oblique;
+    font-size: 25px;
+}
+
+
+h2{
+    color: rgba(237, 26, 107, 0.83);
+   font-size: 4em;
+}
+
+
+
+button{
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fffeff;
+    background-color: #f088bc;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+.proposal {
+    font-size: 3em;
+    line-height: 1.6;
+    color: #ff1493;
+    font-family: Brush Script MT;
+}
